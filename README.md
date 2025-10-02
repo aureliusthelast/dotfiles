@@ -41,9 +41,10 @@ Wallpapers stored in the drive:
   https://drive.google.com/drive/folders/1Acd9oR5EcWJtk3RzvDB3ZnytH7lc4jF5?usp=sharing
 
 Hyprland:
-  ![alt-text](https://github.com/aureliusthelast/dotfiles/blob/main/hyprland.png "hyprland")
-
+  ![alt-text](https://github.com/aureliusthelast/dotfiles/blob/main/hyprland.png "hyprland") 
+  
 i3:
   ![alt-text](https://github.com/aureliusthelast/dotfiles/blob/main/i3.png "i3")
+
 
   
