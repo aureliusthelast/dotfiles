@@ -1,0 +1,10 @@
+theme = "dracula"
+
+[editor.gutters.line-numbers]
+min-width = 1
+
+[editor.cursor-shape]
+insert = "bar"
+
+[editor]
+auto-pairs = true
