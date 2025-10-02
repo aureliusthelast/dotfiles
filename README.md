@@ -47,5 +47,14 @@ Hyprland:
 i3:
   ![alt-text](https://github.com/aureliusthelast/dotfiles/blob/main/i3.png "i3")
 
+***
+## to-do
+* add automated install script
+* sanitize dotfiles
+* change gtk theme
+* format fc-list
+
+
+
 
   
