@@ -21,8 +21,7 @@ Packages used(Hyprland):
   blueman
   pavucontrol
 
-  Cursor: macOS-White
-  Dolphin Theme: Dracula
+
 
 Packages used(i3):
   i3blocks
@@ -34,6 +33,9 @@ Packages used(i3):
   picom
   yazi
   spectacle
+
+  Cursor: macOS-White
+  Dolphin Theme: Dracula
 
 Wallpapers stored in the drive:
   https://drive.google.com/drive/folders/1Acd9oR5EcWJtk3RzvDB3ZnytH7lc4jF5?usp=sharing
