@@ -57,6 +57,7 @@ i3:
 * update .bashrc
 
 
-
+***
+P.S. To change max battery charge, /sys/class/power_supply/BATX/
 
   
