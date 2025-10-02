@@ -52,7 +52,7 @@ i3:
 * add automated install script
 * or, configure stow
 * sanitize dotfiles
-* change gtk theme
+* configure gtk theme to be more "comfortable"
 * format fc-list
 
 
