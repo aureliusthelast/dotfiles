@@ -50,6 +50,7 @@ i3:
 ***
 ## to-do
 * add automated install script
+* or, configure stow
 * sanitize dotfiles
 * change gtk theme
 * format fc-list
