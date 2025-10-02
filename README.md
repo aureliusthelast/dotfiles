@@ -35,7 +35,8 @@ Packages used(i3):
   spectacle
 
   Cursor: macOS-White
-  Dolphin Theme: Dracula
+  
+  GTK Theme: Dracula
 
 Wallpapers stored in the drive:
   https://drive.google.com/drive/folders/1Acd9oR5EcWJtk3RzvDB3ZnytH7lc4jF5?usp=sharing
