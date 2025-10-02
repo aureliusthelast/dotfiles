@@ -54,6 +54,7 @@ i3:
 * sanitize dotfiles
 * configure gtk theme to be more "comfortable"
 * format fc-list
+* update .bashrc
 
 
 
