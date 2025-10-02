@@ -38,7 +38,7 @@ Packages used(i3):
   
   GTK Theme: Dracula
 
-Wallpapers stored in the drive:
+Wallpapers:
   https://drive.google.com/drive/folders/1Acd9oR5EcWJtk3RzvDB3ZnytH7lc4jF5?usp=sharing
 
 Hyprland:
