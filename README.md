@@ -1,5 +1,5 @@
 # Dotfiles for Hyprland and i3
-Packages used(Hyprland):
+Packages (Hyprland):
   dunst
   fastfetch
   helix
@@ -23,7 +23,7 @@ Packages used(Hyprland):
 
 
 
-Packages used(i3):
+Packages (i3):
   i3blocks
   i3lock
   kitty
