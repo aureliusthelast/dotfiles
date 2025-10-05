@@ -1,4 +1,4 @@
-@import "catppuccin-default.rasi"
+@import "rounded-nord-dark.rasi"
 
 configuration {
 modes: "window,drun,emoji,calc,clipboard:greenclip";
@@ -171,4 +171,4 @@ modes: "window,drun,emoji,calc,clipboard:greenclip";
   }
 }
 
-@theme "catppuccin-default.rasi"
+@theme "rounded-nord-dark.rasi"
