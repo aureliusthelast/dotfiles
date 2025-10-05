@@ -55,7 +55,7 @@ i3:
 * configure gtk theme to be more "comfortable"
 * format fc-list
 * update .bashrc
-* remove wofi and integrate rofi with the hyprland theme
+* integrate rofi with the hyprland theme
 
 
 ***
