@@ -54,8 +54,8 @@ i3:
 * sanitize dotfiles
 * configure gtk theme to be more "comfortable"
 * format fc-list
-* update .bashrc
 * integrate rofi with the hyprland theme
+* update i3.png
 
 
 ***
