@@ -56,9 +56,6 @@ i3:
 * format fc-list
 * integrate rofi with the hyprland theme
 * update i3.png
-
-
-***
-P.S. To change max battery charge, /sys/class/power_supply/BATX/
+* omarchy-esque controller using walker
 
   
