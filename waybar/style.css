@@ -68,7 +68,7 @@
   color: #c6d0f5;
 }
 
-#custom-lock {
+#custom-power{
   background-color: #1a1b26;
   padding: 0.3rem 0.92rem;
   padding-left: 0.6rem;
@@ -117,7 +117,7 @@
 #pulseaudio:hover,
 #backlight:hover,
 #network:hover,
-#custom-lock:hover,
+#custom-power:hover,
 #battery:hover {
   background-color: rgb(41, 42, 53);
 }
