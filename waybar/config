@@ -15,6 +15,7 @@
     "backlight",
     "battery",
     "clock",
+    "custom/lock",
   ],
 
   "hyprland/workspaces": {
@@ -58,7 +59,7 @@
     "format-disconnected": "󰤠 ",
     "interval": 5,
     "tooltip-format": "{essid} ({signalStrength}%)",
-    "on-click": "nm-connection-editor"
+    "on-click": "wifimenu"
 
  },
 
@@ -103,7 +104,7 @@
   "custom/lock": {
   "tooltip": false,
   "on-click": "sh -c '(sleep 0s; hyprlock)' & disown",
-  "format" : ""
+  "format" : "󰻀"
   },
 
 }
