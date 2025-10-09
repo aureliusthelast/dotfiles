@@ -9,7 +9,6 @@ Packages (Hyprland):
   kitty
   firefox
   dolphin
-  wofi
   rofi, rofi:emoji
   playerctl
   swww
