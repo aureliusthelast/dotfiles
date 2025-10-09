@@ -59,8 +59,8 @@
     "format-disconnected": "󰤠 ",
     "interval": 5,
     "tooltip-format": "{essid} ({signalStrength}%)",
-    "on-click": "wifimenu"
-
+    "on-click": "wifimenu" 
+  / add wifimenu to $PATH /
  },
 
   "memory": {
