@@ -56,5 +56,6 @@ i3:
 * integrate rofi with the hyprland theme
 * update i3.png
 * omarchy-esque controller using walker
+* write a transparant overlay to display *widgets*
 
   
