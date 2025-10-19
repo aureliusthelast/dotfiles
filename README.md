@@ -19,7 +19,8 @@ Packages (Hyprland):
   hyprpolkitagent
   blueman
   pavucontrol
-
+  zoxide
+  fish
 
 
 Packages (i3):
@@ -49,13 +50,9 @@ i3:
 ***
 ## to-do
 * add automated install script
-* or, configure stow
-* sanitize dotfiles
-* configure gtk theme to be more "comfortable"
 * format fc-list
 * integrate rofi with the hyprland theme
 * update i3.png
-* omarchy-esque controller using walker
 * write a transparant overlay to display *widgets*
 
   
