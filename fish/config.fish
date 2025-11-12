@@ -3,4 +3,6 @@ if status is-interactive
     zoxide init fish | source
     zoxide init --cmd cd fish | source
     set EDITOR helix
+    fzf --fish | FZF_CTRL_R_COMMAND= source
+
 end
